@@ -4,9 +4,10 @@ I'm an autistic developer with a love for creating beautiful, functional, and us
 # ❤️ Status
 with @prettyaciee
 ```java
-private boolean takenInARelationship == true; // general status
-private boolean isCourting == true; // 05-27-2026 at 11:28pm GMT+8
-private boolean isOfficial == true; // 06-19-2026 at 5:54am GMT+8
+private boolean takenInARelationship == true; // general status as set
+private boolean isAsking == true; // 05-20-2026 at 3:18pm, in the middle of the Thesis Writing 1 defense
+private boolean isCourting == true; // 05-27-2026 at 11:28pm GMT+8, right as I am about to sleep
+private boolean isOfficial == true; // 06-19-2026 at 5:54am GMT+8, right when I woke  up
 private boolean isEngaged == true;
 private boolean isMarried == true;
 ```
