@@ -4,7 +4,7 @@ I'm an autistic developer with a love for creating beautiful, functional, and us
 # ❤️ Status
 with @prettyaciee
 ```java
-privvate boolean isOfficial == true; 
+private boolean isOfficial == true; 
 private boolean takenInARelationship == true;
 private boolean isEngaged == ?;
 ```
