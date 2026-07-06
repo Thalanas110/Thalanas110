@@ -1,6 +1,13 @@
 # 💫 About Me:
 I'm an autistic developer with a love for creating beautiful, functional, and user-centered digital experiences. With a background in both frontend and backend development, I enjoy bringing ideas to life through clean, efficient code and thoughtful design. I also am aiming to become an airline captain, combining my passion for aviation with my technical skills, combined with my passion for flying and travelling, ensuring a smooth, pleasant, and lovely experience for users and passengers.<br><br>Currently pursuing my degree in Computer Science, as the first step towards my goal of becoming a commercial airline pilot. I am dedicated to continuous learning and growth, both in my technical skills and my aviation knowledge.<br><br>When I'm not in the cockpit or coding, I'm exploring new technologies, contributing to open-source projects, and staying current with industry best practices.
 
+# ❤️ Status
+```java
+privvate boolean isOfficial == true;
+private boolean takenInARelationship == true;
+private boolean isEngaged == ?;
+```
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/future.airline.captain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adriaan.amd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@flightspasta1315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amdimate43@gmail.com) 
