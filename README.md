@@ -129,7 +129,7 @@ public class RelationshipStatus {
 
 # 📊 GitHub Stats
 
-[!(https://streak-stats.demolab.com?user=Thalanas110&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://readme-stats-fast.vercel.app/api/streak?username=Thalanas110&theme=dark)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Thalanas110\&theme=dark\&hide_border=false)
 
