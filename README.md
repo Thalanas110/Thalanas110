@@ -125,12 +125,6 @@ public class RelationshipStatus {
 
 [![GitHub](https://img.shields.io/badge/Thalanas110-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Thalanas110)
 
-## ❤️ Madame
-
-[@prettyaciee](https://github.com/prettyaciee)
-
-💗 **https://github.com/prettyaciee**
-
 ---
 
 # 📊 GitHub Stats
