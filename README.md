@@ -131,13 +131,7 @@ public class RelationshipStatus {
 
 ![GitHub Streak](https://readme-stats-fast.vercel.app/api/streak?username=Thalanas110&theme=dark)
 
-![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=Thalanas110\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Thalanas110\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Thalanas110&theme=dark&hide_border=false&layout=compact)
 
 ---
 
